@@ -10,9 +10,11 @@ Clone an existing repository: git clone <repository_url>
 Clone and rename the directory: git clone <repository_url> <new_directory_name>
 Tracking Files
 Check the status of your repository: git status
-Track a new file: git add <file_name>
+
+# SMILEE :) 
+ Track a new file: git add <file_name>
 Track all files: git add -A
-Committing Changes
+Committing Changes -truffles
 Commit staged changes with a message: git commit -m "Your commit message"
 Commit without -m for a detailed message: git commit (Enter the message in the editor)
 Remote Repositories
